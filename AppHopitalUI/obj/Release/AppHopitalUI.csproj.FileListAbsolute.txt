@@ -1,0 +1,12 @@
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\bin\Release\AppHopitalUI.exe.config
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\bin\Release\AppHopitalUI.exe
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\bin\Release\AppHopitalUI.pdb
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\obj\Release\AppHopitalUI.csprojAssemblyReference.cache
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\obj\Release\AppHopitalUI.Form1.resources
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\obj\Release\AppHopitalUI.FrmListePatient.resources
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\obj\Release\AppHopitalUI.FrmPatientSelection.resources
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\obj\Release\AppHopitalUI.Properties.Resources.resources
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\obj\Release\AppHopitalUI.csproj.GenerateResource.cache
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\obj\Release\AppHopitalUI.csproj.CoreCompileInputs.cache
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\obj\Release\AppHopitalUI.exe
+D:\Xperiment\Projet\c#\HospitalUI\AppHopitalUI\obj\Release\AppHopitalUI.pdb

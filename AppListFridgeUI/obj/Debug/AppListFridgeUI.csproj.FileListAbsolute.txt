@@ -1,0 +1,24 @@
+H:\c# project\FridgeUI\AppListFridgeUI\bin\Debug\AppListFridgeUI.exe.config
+H:\c# project\FridgeUI\AppListFridgeUI\bin\Debug\AppListFridgeUI.exe
+H:\c# project\FridgeUI\AppListFridgeUI\bin\Debug\AppListFridgeUI.pdb
+H:\c# project\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.csprojAssemblyReference.cache
+H:\c# project\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.AppForm.resources
+H:\c# project\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.AppFormAliment.resources
+H:\c# project\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.AppFormRecette.resources
+H:\c# project\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.Properties.Resources.resources
+H:\c# project\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.csproj.GenerateResource.cache
+H:\c# project\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.csproj.CoreCompileInputs.cache
+H:\c# project\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.exe
+H:\c# project\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.pdb
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\bin\Debug\AppListFridgeUI.exe.config
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\bin\Debug\AppListFridgeUI.exe
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\bin\Debug\AppListFridgeUI.pdb
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.csprojAssemblyReference.cache
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.AppForm.resources
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.AppFormAliment.resources
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.AppFormRecette.resources
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.Properties.Resources.resources
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.csproj.GenerateResource.cache
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.csproj.CoreCompileInputs.cache
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.exe
+C:\Users\1843677\Desktop\xp2\Projet\c#\FridgeUI\AppListFridgeUI\obj\Debug\AppListFridgeUI.pdb
