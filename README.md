@@ -1,2 +1,6 @@
 # desy.csharpAppForm.github.io
 my c# app form application
+
+!!! ALL OF THE .EXES ARE IN THEIR RESPECTIVE  BIN/DEMO OR BIN/RELEASE FODLER !!!
+
+I WILL UPLOAD A FOLDER WITH ALL OF THE RELEASED .EXE LATER
