@@ -1,0 +1,11 @@
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\bin\Debug\AppScolaireUI.exe.config
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\bin\Debug\AppScolaireUI.exe
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\bin\Debug\AppScolaireUI.pdb
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\obj\Debug\AppScolaireUI.csprojAssemblyReference.cache
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\obj\Debug\AppScolaireUI.Form1.resources
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\obj\Debug\AppScolaireUI.FrmChoixVue.resources
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\obj\Debug\AppScolaireUI.Properties.Resources.resources
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\obj\Debug\AppScolaireUI.csproj.GenerateResource.cache
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\obj\Debug\AppScolaireUI.csproj.CoreCompileInputs.cache
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\obj\Debug\AppScolaireUI.exe
+C:\Users\1757734\Desktop\xperiment\Projet\c#\ScolarUI\AppScolaireUI\obj\Debug\AppScolaireUI.pdb
